@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "mail": "user1@abc.com",
+      "pwd": "123",
+      "fname": "Ram",
+      "lname": "Kumar",
+      "location": "Chennai",
+      "phone": "9876543210"
+    },
+    {
+      "mail": "user2@abc.com",
+      "pwd": "123",
+      "fname": "Kavin",
+      "lname": "Kumar",
+      "location": "Banglore",
+      "phone": "0123456789"
+    }
+  ]
+}
